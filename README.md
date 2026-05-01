@@ -37,10 +37,12 @@ Crie um ambiente virtual:
 
 Bash
 python -m venv venv
+
 Ative o ambiente e instale as dependências:
 
 Bash
 pip install streamlit pandas
+
 Execute a aplicação:
 
 Bash
